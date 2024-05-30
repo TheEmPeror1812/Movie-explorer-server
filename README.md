@@ -1,0 +1,1 @@
+This is a single page Movie Explorer application made with MERN Stack Development using Frontend Technologies like React, Material UI, Swiper JS, React-Router, Axios and in backend Technology i used Express.Js, Node.JS, Express Validator, JSON Webtoken, Mongoose
