@@ -13,9 +13,9 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 
-app.get("/api/v1",(req,res)=>{
-  return res.statusCode(200).json({
-    message:"Welcome"
+app.get("/",(req,res)=>{
+  res.json({
+    message:"Hello"
   })
 })
 
